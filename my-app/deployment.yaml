@@ -1,0 +1,9 @@
+volumes:
+  - name: config
+    configMap:
+      name: nginx-config
+
+volumeMounts:
+  - name: config
+    mountPath: /etc/nginx/nginx.conf
+    subPath: nginx.conf
