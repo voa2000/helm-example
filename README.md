@@ -1,2 +1,2 @@
-# my-helm-charts
+# My helm charts
 Helm chart monorepo
