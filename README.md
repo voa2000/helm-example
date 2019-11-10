@@ -1,5 +1,5 @@
 # Helm charts
-Helm chart mono=repo
+Helm chart mono-repo
 For deployment on Kubernates 
 
 * Time- series database blog https://blog.timescale.com/blog/what-the-heck-is-time-series-data-and-why-do-i-need-a-time-series-database-dcf3b1b18563/
